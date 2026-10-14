@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>5th Year Maths</title>
+<meta name="description" content="Board photos, homework, solutions and guided notes for 5th Year Maths.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500&family=Patrick+Hand&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <header>
+    <h1><span id="siteTitle"></span></h1>
+    <p id="siteIntro"></p>
+  </header>
+  <div class="tabs" id="tabs" role="tablist" aria-label="Sections"></div>
+  <div id="view" role="tabpanel"></div>
+  <noscript><p>This page needs JavaScript turned on to show the lessons.</p></noscript>
+</main>
+
+<dialog id="viewer" aria-label="Photo">
+  <form method="dialog"><button class="btn">Close</button></form>
+  <img id="viewerImg" alt="">
+</dialog>
+
+<script>
+/* If something goes wrong, show what it was instead of a blank page. */
+window.addEventListener("error", function (e) {
+  var v = document.getElementById("view");
+  if (!v || v.innerHTML.replace(/\s/g, "")) return;
+  var m = (e && e.message ? e.message : "a file did not load properly. Check config.js and lessons.txt for a missing quote mark or bracket") + (e && e.filename ? " (" + e.filename.split("/").pop() + ", line " + e.lineno + ")" : "");
+  v.innerHTML = '<p style="padding:1rem;border:2px solid #D3242B;background:#fff;color:#1B2236;font:1rem/1.5 system-ui,sans-serif">This page could not load. Please tell your teacher this message:<br><strong></strong></p>';
+  v.querySelector("strong").textContent = m;
+}, true);
+</script>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -33,71 +33,6 @@
 # Delete the sample lessons below once you have added your own.
 # ---------------------------------------------------------------
 
-date: 2026-10-08
-title: Solving simultaneous equations
-summary: We solved pairs of equations by elimination, adding or subtracting to remove one letter, then checked each answer in both equations.
-homework: Exercise 7C, questions 1 to 10 | https://example.com/homework
-photos: sample-board-1.jpg, sample-board-2.jpg
-solutions: https://example.com/solutions
-video: How to solve questions 4 to 10 | https://www.youtube.com/
-
-date: 2026-10-07
-title: Factorising quadratics
-summary: We factorised quadratics where the number in front of x² is 1, by finding two numbers that multiply and add to the right values.
-homework: Exercise 7B, questions 1 to 12 | https://example.com/homework
-photos: sample-board-1.jpg
-solutions: https://example.com/solutions
-video: Factorising when a is not 1 | https://www.youtube.com/
-
-date: 2026-10-06
-title: Expanding double brackets
-homework: Exercise 7A, questions 1 to 12 | https://example.com/homework
-photos: sample-board-1.jpg, sample-board-2.jpg, sample-board-3.jpg
-solutions: https://example.com/solutions
-video: Expanding with negatives | https://www.youtube.com/
-
-date: 2026-10-05
-title: Indices and the laws of indices
-homework: Exercise 6D, questions 1 to 8 | https://example.com/homework
-photos: sample-board-1.jpg
-solutions: https://example.com/solutions
-
-date: 2026-10-02
-title: Inequalities on the number line
-homework: Exercise 6C, questions 1 to 9 | https://example.com/homework
-photos: sample-board-1.jpg
-solutions: https://example.com/solutions
-video: Reversing the sign | https://www.youtube.com/
-
-date: 2026-10-01
-title: Rearranging formulae
-homework: Exercise 6B, questions 1 to 8 | https://example.com/homework
-photos: sample-board-1.jpg, sample-board-2.jpg
-solutions: https://example.com/solutions
-
-date: 2026-09-30
-title: Surds: simplifying and adding
-homework: Exercise 6A, questions 1 to 10 | https://example.com/homework
-photos: sample-board-1.jpg
-solutions: https://example.com/solutions
-video: Simplifying surds in two steps | https://www.youtube.com/
-
-date: 2026-09-29
-title: Solving linear equations with fractions
-homework: Exercise 5D, questions 1 to 8 | https://example.com/homework
-photos: sample-board-1.jpg
-solutions: https://example.com/solutions
-
-date: 2026-09-25
-title: Percentages and compound interest
-homework: Exercise 5C, questions 1 to 7 | https://example.com/homework
-photos: sample-board-1.jpg, sample-board-2.jpg
-solutions: https://example.com/solutions
-
-date: 2026-09-24
-title: Ratio and proportion
-homework: Exercise 5B, questions 1 to 9 | https://example.com/homework
-photos: sample-board-1.jpg
 
 date: 2026-10-12
 title: Pythagoras Theorem
@@ -112,3 +47,5 @@ title: Revision for algebra test
 topic: Algebra
 summary: Revision for the Algebra test.
 homework: Complete the algebra revision | https://drive.google.com/file/d/1ZpxaayUrBh7nxUDULJeK3hBOTjkuvqaH/view?usp=share_link
+
+

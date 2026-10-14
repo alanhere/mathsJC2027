@@ -49,3 +49,9 @@ summary: Revision for the Algebra test.
 homework: Complete the algebra revision | https://drive.google.com/file/d/1ZpxaayUrBh7nxUDULJeK3hBOTjkuvqaH/view?usp=share_link
 
 
+
+date: 2026-09-14
+title: Probability Revision
+topic: Probability
+summary: Revision questions on probability based on previous JC questions.
+homework: complete the revision sheet. | https://drive.google.com/file/d/1WNWFU70AslV8On9578vAsDWa-hls3fFY/view?usp=share_link

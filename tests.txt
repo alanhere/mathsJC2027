@@ -17,3 +17,10 @@
 # The page then says "Solutions coming soon." Add the link later and the button appears.
 # You can name a button: test: Paper 1 | https://drive.google.com/...
 # ---------------------------------------------------------------
+
+ date: 2026-09-21
+ title: Probability test
+ topic: Probabilty                   (optional, a small tag, such as Algebra)
+ test: Probability | https://drive.google.com/file/d/1Xnqv6IaidaHhFij7hZUUhDiipIuWVjII/view?usp=sharing
+ solutions: https://drive.google.com/file/d/1HLw-kFwUPR1RRyGzGypeXPRhCF3t7dso/view?usp=share_link
+ about: Tree diagrams, sample space, venn diagram,fundamntal principal of counting, probability scales,expected frequencies 

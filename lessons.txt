@@ -98,3 +98,11 @@ date: 2026-09-24
 title: Ratio and proportion
 homework: Exercise 5B, questions 1 to 9 | https://example.com/homework
 photos: sample-board-1.jpg
+
+date: 2026-10-12
+title: Pythagoras Theorem
+topic: Trigonometry
+summary: Identified Right angled triangles Identtifed the hypothenuse. Use Pythagoras theorem to find the length of the hypothenuse of a triangle given the two shorter sides. Used Pythagoras theorem to solve some real world problems.
+homework: complete Q1 on page 266 in the book. | https://drive.google.com/file/d/1SV4Z1gkhch4XwLPKdmE4Cy7fnpeQLdbg/view?usp=share_link
+photos: 2026-10-12-1.jpg, 2026-10-12-2.jpg
+video: https://www.youtube.com/watch?v=CnHgqfBSgco

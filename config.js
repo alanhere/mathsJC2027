@@ -2,7 +2,7 @@
 window.SITE = {
   title: "3rd Year Maths",
   intro: "Board photos, homework, solutions, tests and revision.",
-  theme: "crimson",   /* colour of this class: blue, green, crimson, purple, teal or orange */
+  theme: "orange",   /* colour of this class: blue, green, crimson, purple, teal or orange */
   ink: "#2f7532",   /* the main colour. Try another colour code if you want to change it */
   tabs: [
     { id: "lessons", label: "Lessons", file: "lessons.txt", type: "lesson", noun: "lessons" },

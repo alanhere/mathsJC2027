@@ -62,3 +62,12 @@ title: Probability Revision
 topic: Probability
 summary: Revision questions on probability based on previous JC questions.
 homework: complete the revision sheet. | https://drive.google.com/file/d/1WNWFU70AslV8On9578vAsDWa-hls3fFY/view?usp=share_link
+
+date: 2026-10-15
+title: Pythagoras find short side
+topic: Trigonometry
+summary: Use phytagoras theorem to find the missing short side when provided with hypotenuse and the other short side.
+homework: Page 267, Q2 parts due and f | https://drive.google.com/file/d/10brslZ93HXU648E4P_o6wluVbN_gT7Xq/view?usp=share_link
+photos: 2026-10-15-1.jpg, 2026-10-15-2.jpg, 2026-10-15-3.jpg, 2026-10-15-4.jpg
+solutions: https://drive.google.com/file/d/170vRlg7AFBTl8sn7lU4wnnSnAsNyuqq1/view?usp=share_link
+video: https://www.youtube.com/watch?v=MJTMhKRiorI

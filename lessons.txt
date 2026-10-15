@@ -49,6 +49,13 @@ summary: Revision for the Algebra test.
 homework: Complete the algebra revision | https://drive.google.com/file/d/1ZpxaayUrBh7nxUDULJeK3hBOTjkuvqaH/view?usp=share_link
 
 
+date: 2026-09-17
+title: What does the exam paper look like
+topic: Exam Prep
+summary: Went through the structure of the JC maths exam Questions were modelled and answered.
+homework: Prepare for the Probability test next Monday
+photos: 2026-09-17-1.jpg, 2026-09-17-2.jpg, 2026-09-17-3.jpg, 2026-09-17-4.jpg
+
 
 date: 2026-09-14
 title: Probability Revision

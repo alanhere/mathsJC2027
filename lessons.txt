@@ -71,3 +71,10 @@ homework: Page 267, Q2 parts due and f | https://drive.google.com/file/d/10brslZ
 photos: 2026-10-15-1.jpg, 2026-10-15-2.jpg, 2026-10-15-3.jpg, 2026-10-15-4.jpg
 solutions: https://drive.google.com/file/d/170vRlg7AFBTl8sn7lU4wnnSnAsNyuqq1/view?usp=share_link
 video: https://www.youtube.com/watch?v=MJTMhKRiorI
+
+date: 2026-10-19
+title: Using Pythagoras to find diagonals
+topic: Trigonometry
+summary: We looked at 1)calculating the diagonal in squares, rectangles and TVs and 2) the converse of Pythagoras theorem to determine if a triangle is right angled.
+homework: Complete the revision sheet you were given out | https://drive.google.com/file/d/1w5EJOOw2XzMiih51VgEP_b7MH0RoLUgF/view?usp=share_link
+solutions: https://drive.google.com/file/d/1odVkW1W3VsfEEA614SCTdq70SJkx2pvc/view?usp=share_link

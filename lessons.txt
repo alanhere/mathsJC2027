@@ -78,3 +78,4 @@ topic: Trigonometry
 summary: We looked at 1)calculating the diagonal in squares, rectangles and TVs and 2) the converse of Pythagoras theorem to determine if a triangle is right angled.
 homework: Complete the revision sheet you were given out | https://drive.google.com/file/d/1w5EJOOw2XzMiih51VgEP_b7MH0RoLUgF/view?usp=share_link
 solutions: https://drive.google.com/file/d/1odVkW1W3VsfEEA614SCTdq70SJkx2pvc/view?usp=share_link
+video: https://www.youtube.com/watch?v=yhaGKp2mGzI

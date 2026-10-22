@@ -87,3 +87,10 @@ summary: We started looking at labelling other sides of our triangles in terms o
 homework: Fill in the table in your worksheets writing in the values for each side. | https://drive.google.com/file/d/1enLSQUsN_ZD7jlOz-W_vQZwshzKtGPSE/view?usp=share_link
 photos: 2026-10-21-1.jpg, 2026-10-21-2.jpg
 video: https://www.youtube.com/watch?v=8KsHJJB_ffI
+
+date: 2026-10-22
+title: SOHCAHTOA
+topic: Trigonometry
+summary: Today we continued with trigonometry, we starting using SOHCAHTOA finding different ratios in triangles.
+homework: Revise the trigonometry 1 booklet and answer the first page on the trigonometry 2 booklet which I attached.
+photos: 2026-10-22-1.jpg

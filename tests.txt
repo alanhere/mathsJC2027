@@ -18,9 +18,24 @@
 # You can name a button: test: Paper 1 | https://drive.google.com/...
 # ---------------------------------------------------------------
 
- date: 2026-09-21
+date: 2026-10-21
+ title: Pythagoras Test
+ topic: Pythagoras                  
+ test: Pythagoras |https://docs.google.com/document/d/1y-JOBGL5kSXoyXOJOEqRPs4RQ3kuGnuG/edit?usp=share_link&ouid=109616309556045431109&rtpof=true&sd=true
+ solutions: 
+ about: finding hypotenuse, shorter side, word problems, converse of Pythagoras.
+
+
+date: 2026-10-07
+ title: Algebra test
+ topic: algebra                  
+ test: algebra | https://drive.google.com/file/d/1SLBE7fZ-UEPx8EuxQt3KOig4S2OnflFh/view?usp=share_link
+ solutions: https://drive.google.com/file/d/137Ay11bqRhoWlbZKpxCm4BeFwbYUkyNw/view?usp=share_link
+ about: simplitying, expanding brackets, solving equations, substitutions and word problems
+
+date: 2026-09-21
  title: Probability test
  topic: Probabilty                  
  test: Probability | https://drive.google.com/file/d/1Xnqv6IaidaHhFij7hZUUhDiipIuWVjII/view?usp=sharing
  solutions: https://drive.google.com/file/d/1HLw-kFwUPR1RRyGzGypeXPRhCF3t7dso/view?usp=share_link
- about: Tree diagrams, sample space, venn diagram,fundamntal principal of counting, probability scales,expected frequencies 
+ about: Tree diagrams, sample space, venn diagram,fundamntal principal of counting, probability scales,expected frequencies

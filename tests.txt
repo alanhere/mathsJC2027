@@ -22,7 +22,7 @@ date: 2026-10-21
  title: Pythagoras Test
  topic: Pythagoras                  
  test: Pythagoras |https://docs.google.com/document/d/1y-JOBGL5kSXoyXOJOEqRPs4RQ3kuGnuG/edit?usp=share_link&ouid=109616309556045431109&rtpof=true&sd=true
- solutions: 
+ solutions: https://drive.google.com/file/d/17HIt4eJfyFFaJvh6kCD402SvHkoVAqE2/view?usp=share_link
  about: finding hypotenuse, shorter side, word problems, converse of Pythagoras.
 
 

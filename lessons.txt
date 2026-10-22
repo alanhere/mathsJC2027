@@ -79,3 +79,11 @@ summary: We looked at 1)calculating the diagonal in squares, rectangles and TVs 
 homework: Complete the revision sheet you were given out | https://drive.google.com/file/d/1w5EJOOw2XzMiih51VgEP_b7MH0RoLUgF/view?usp=share_link
 solutions: https://drive.google.com/file/d/1odVkW1W3VsfEEA614SCTdq70SJkx2pvc/view?usp=share_link
 video: https://www.youtube.com/watch?v=yhaGKp2mGzI
+
+date: 2026-10-21
+title: Intro to trigonometry
+topic: Trigonometry
+summary: We started looking at labelling other sides of our triangles in terms of where they are to the marked angle (hypotenuse, opposite, adjacent).
+homework: Fill in the table in your worksheets writing in the values for each side. | https://drive.google.com/file/d/1enLSQUsN_ZD7jlOz-W_vQZwshzKtGPSE/view?usp=share_link
+photos: 2026-10-21-1.jpg, 2026-10-21-2.jpg
+video: https://www.youtube.com/watch?v=8KsHJJB_ffI

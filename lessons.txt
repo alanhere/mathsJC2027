@@ -94,3 +94,10 @@ topic: Trigonometry
 summary: Today we continued with trigonometry, we starting using SOHCAHTOA finding different ratios in triangles.
 homework: Revise the trigonometry 1 booklet and answer the first page on the trigonometry 2 booklet which I attached.
 photos: 2026-10-22-1.jpg
+
+date: 2026-11-02
+title: Use trig ratios to find missing angles.
+topic: Trigonometry
+summary: found missing angles using SOHCAHTOA ratios.
+homework: a) in book, Page 290 Questions 1-5. b) revise trig notes | https://drive.google.com/file/d/1TPDMvNdMOzb9UjKLDSuMws_W-_pDn8Zu/view?usp=share_link
+video: https://www.youtube.com/watch?v=tmw76U5EeTg

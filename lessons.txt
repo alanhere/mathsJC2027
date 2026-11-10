@@ -116,3 +116,11 @@ topic: Trigonometry
 summary: Today we completed finding missing sides using SOHCAHTOA.
 homework: please answer these questions under the 'real world application questions': The first page and the third page. We will have a quick ten minute test on trigonometry on Monday (using SOHCAHTOA to find missing angles and sides).
 photos: 2026-11-05-1.jpg
+
+date: 2026-11-10
+title: Finding missing Angles
+topic: Trigonometry
+summary: we continued using SOHCAHTOA to find missing angles
+homework: Please complete these real world application questions into your copies.
+photos: 2026-11-10-1.jpg, 2026-11-10-2.jpg, 2026-11-10-3.jpg
+hidehomework: yes

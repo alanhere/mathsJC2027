@@ -101,3 +101,11 @@ topic: Trigonometry
 summary: found missing angles using SOHCAHTOA ratios.
 homework: a) in book, Page 290 Questions 1-5. b) revise trig notes | https://drive.google.com/file/d/1TPDMvNdMOzb9UjKLDSuMws_W-_pDn8Zu/view?usp=share_link
 video: https://www.youtube.com/watch?v=tmw76U5EeTg
+
+date: 2026-11-09
+title: Revision of Trigonometry
+topic: Trigonometry
+summary: 1) Revised trigonometry and then did a trigonometry test. 2) Started revision of the topics on the November Exam.
+homework: Continue with the revision. | https://drive.google.com/file/d/1pyp3RX6DHylbtEaFqFLm2ZUk8EmzomHo/view?usp=share_link
+photos: 2026-11-09-1.jpg, 2026-11-09-2.jpg, 2026-11-09-3.jpg, 2026-11-09-4.jpg, 2026-11-09-5.jpg, 2026-11-09-6.jpg, 2026-11-09-7.jpg, 2026-11-09-8.jpg, 2026-11-09-9.jpg, 2026-11-09-10.jpg, 2026-11-09-11.jpg, 2026-11-09-12.jpg, 2026-11-09-13.jpg, 2026-11-09-14.jpg, 2026-11-09-15.jpg, 2026-11-09-16.jpg, 2026-11-09-17.jpg, 2026-11-09-18.jpg, 2026-11-09-19.jpg, 2026-11-09-20.jpg, 2026-11-09-21.jpg, 2026-11-09-22.jpg, 2026-11-09-23.jpg, 2026-11-09-24.jpg, 2026-11-09-25.jpg, 2026-11-09-26.jpg, 2026-11-09-27.jpg, 2026-11-09-28.jpg
+hidehomework: yes

@@ -124,3 +124,12 @@ summary: we continued using SOHCAHTOA to find missing angles
 homework: Please complete these real world application questions into your copies.
 photos: 2026-11-10-1.jpg, 2026-11-10-2.jpg, 2026-11-10-3.jpg
 hidehomework: yes
+
+date: 2026-11-12
+title: Distance time Graphs
+topic: Graphs
+summary: We created distance time graphs using motion sensor. We interpreted graphs and determined the speed from the graph.
+homework: complete question 3 on the worksheet we were using in class.
+photos: 2026-11-12-1.jpg
+hidehomework: yes
+video: https://www.youtube.com/watch?v=0tV9bcGM4hA
